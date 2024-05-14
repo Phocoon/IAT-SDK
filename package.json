@@ -1,0 +1,17 @@
+{
+  "name": "com.phocoon.iat",
+  "version": "0.8.0",
+  "displayName": "Phocoon IAT",
+  "description": "Phocoon Interactive Advertising Toolkit",
+  "unity": "2022.3",
+  "unityRelease": "6f1c1",
+  "documentationUrl": "https://cw5xubtvhw.feishu.cn/docx/XYHMdHsCSo0iijxnQ8tc0257nSd?from=from_copylink",
+  "changelogUrl": "https://cw5xubtvhw.feishu.cn/docx/XYHMdHsCSo0iijxnQ8tc0257nSd?from=from_copylink",
+  "licensesUrl": "https://cw5xubtvhw.feishu.cn/docx/XYHMdHsCSo0iijxnQ8tc0257nSd?from=from_copylink",
+  "keywords": [],
+  "author": {
+    "name": "Phocoon",
+    "email": "bussiness@phocoon.com",
+    "url": "https://cw5xubtvhw.feishu.cn/docx/XYHMdHsCSo0iijxnQ8tc0257nSd?from=from_copylink"
+  }
+}

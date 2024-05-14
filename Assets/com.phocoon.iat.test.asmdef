@@ -1,0 +1,16 @@
+{
+    "name": "com.phocoon.iat.test",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0ef8d07eb37d60d478bec37ee8420992"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
