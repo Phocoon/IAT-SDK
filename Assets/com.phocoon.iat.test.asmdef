@@ -2,7 +2,8 @@
     "name": "com.phocoon.iat.test",
     "rootNamespace": "",
     "references": [
-        "GUID:0ef8d07eb37d60d478bec37ee8420992"
+        "GUID:0ef8d07eb37d60d478bec37ee8420992",
+        "GUID:d34a9f3c5c1d0524a9d53ebd6e0bad7d"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
